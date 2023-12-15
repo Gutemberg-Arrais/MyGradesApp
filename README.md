@@ -1,4 +1,5 @@
 # MyGradesApp
+
 # MyGradesApp - Aplicativo de Notas Escolares
 
 Bem-vindo ao **MyGradesApp**, um aplicativo **React Native** para gerenciar suas notas escolares de forma simples e eficiente. Com este aplicativo, você pode adicionar, editar e excluir notas associadas a diferentes disciplinas.
