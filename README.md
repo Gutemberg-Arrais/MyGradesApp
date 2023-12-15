@@ -5,6 +5,8 @@ Bem-vindo ao **MyGradesApp**, um aplicativo **React Native** para gerenciar suas
 
 ## Instalação
 
+Obs.: No modo web o método de deletar não pode ser utilizado por se tratar de Alert Nativo dos SmarthPhones Android e IOS
+
 Certifique-se de ter o **Node.js** e o **npm** instalados em seu sistema antes de prosseguir.
 
 1. Clone este repositório:
